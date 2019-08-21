@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-pcf8574at",
+  "title": "pcf8574at",
+  "keywords": "pcf8574at, esp32, esp8266, arduino",
+  "description": "Plugin pcf8574at for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pcf8574at/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pcf8574at/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
